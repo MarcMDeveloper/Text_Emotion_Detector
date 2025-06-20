@@ -1,0 +1,45 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+*.env
+
+# Data files (optional)
+*.tsv
+*.parquet
+*.sav
+*.dta
+
+# Tableau temp files
+*.twb~
+*.tds~
+*.log
+
+# PowerPoint autosave
+~$*.pptx
+
+# VSCode/IDE settings
+.vscode/
+.idea/
+
+# Mac-specific
+*.DS_Store
+
+# Logs
+*.log
